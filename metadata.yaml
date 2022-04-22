@@ -1,0 +1,32 @@
+_repo: Winchester-Painted-by-Wilfrid-Ball_67808
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Varley, Telford
+    gutenberg_agent_id: '54471'
+    url: http://www.gutenberg.org/2009/agents/54471
+  - agent_name: Ball, Wilfrid
+    alias: Ball, Wilfrid Williams
+    birthdate: 1853
+    deathdate: 1917
+    gutenberg_agent_id: '53636'
+    url: http://www.gutenberg.org/2009/agents/53636
+    wikipedia: https://en.wikipedia.org/wiki/Wilfrid_Ball
+description: ''
+gutenberg_issued: '2022-04-10'
+identifiers:
+  gutenberg: '67808'
+language: en
+pgterms:marc905: 20210817061244ball
+pgterms:marc906: '1910'
+pgterms:marc907: GB
+production_note: Chuck Greif and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images available at The Internet Archive)
+publication_note: United Kingdom :A&C Black ltd,1910.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Winchester Painted by Wilfrid Ball
+url: http://www.gutenberg.org/ebooks/67808
