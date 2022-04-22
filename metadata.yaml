@@ -1,5 +1,8 @@
 _repo: Winchester-Painted-by-Wilfrid-Ball_67808
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67808-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Varley, Telford
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/53636
     wikipedia: https://en.wikipedia.org/wiki/Wilfrid_Ball
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67808#Winchester-Painted-by-Wilfrid-Ball
 gutenberg_issued: '2022-04-10'
 identifiers:
   gutenberg: '67808'
